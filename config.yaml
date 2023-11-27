@@ -1,0 +1,6 @@
+path: D:\Scoala\NumereDataSet
+train: images\train
+val:  images\train
+
+names:
+  0: plate
